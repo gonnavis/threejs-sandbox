@@ -1,4 +1,4 @@
-import { Color, LinearEncoding } from '//unpkg.com/three@0.116.1/build/three.module.js';
+import { Color, LinearEncoding } from '../../lib/three@0.116.1/build/three.module.js';
 
 export class RendererState {
 

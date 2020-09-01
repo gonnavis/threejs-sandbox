@@ -1,4 +1,4 @@
-import { ShaderMaterial } from '//unpkg.com/three@0.114.0/build/three.module.js';
+import { ShaderMaterial } from '../../lib/three@0.114.0/build/three.module.js';
 
 export function setMaterialDefine( material, define, value ) {
 
