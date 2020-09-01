@@ -8,8 +8,8 @@ import {
 	HalfFloatType,
 	RGBFormat,
 	Math as MathUtils,
-} from '//unpkg.com/three@0.114.0/build/three.module.js';
-import { Pass } from '//unpkg.com/three@0.114.0/examples/jsm/postprocessing/Pass.js';
+} from '../../lib/three@0.114.0/build/three.module.js';
+import { Pass } from '../../lib/three@0.114.0/examples/jsm/postprocessing/Pass.js';
 import { NormalPass } from '../../shader-replacement/src/passes/NormalPass.js';
 import { LinearDepthPass } from './LinearDepthPass.js';
 import { LinearDepthDisplayShader } from './DebugShaders.js';

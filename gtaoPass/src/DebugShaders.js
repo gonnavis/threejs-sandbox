@@ -1,4 +1,4 @@
-import { Vector2 } from '//unpkg.com/three@0.114.0/build/three.module.js';
+import { Vector2 } from '../../lib/three@0.114.0/build/three.module.js';
 import { sampleFunctions } from '../../custom-mipmap-generation/src/mipSampleFunctions.js';
 
 export const LinearDepthDisplayShader = {
